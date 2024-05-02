@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Current PhD Student in Economics and Public Policy, University of Michigan + The Ford School
+* B.A. in Economics and Applied Mathematics, Warthmore College, 2022
 
 Work experience
 ======

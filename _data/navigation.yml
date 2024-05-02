@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Works in Progress"
+    url: /works_in_progress/
     
   - title: "CV"
     url: https://www.dropbox.com/scl/fi/98z2ya9ivb2fd6rb5vsei/CV_Bergmann_External.pdf?rlkey=ikvemluwbsh29aenkb5c0q209&dl=0

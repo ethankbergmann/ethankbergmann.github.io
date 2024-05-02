@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ethan Bergmann"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Policy-driven economics"
+  location         : "Princeton, NJ"
+  institution      : "University of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ebergma@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

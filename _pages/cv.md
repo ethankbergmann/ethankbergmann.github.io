@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Current PhD Student in Economics and Public Policy, University of Michigan + The Ford School
-* B.A. in Economics and Applied Mathematics, Warthmore College, 2022
+* B.A. in Economics and Applied Mathematics, Swarthmore College, 2022
 
 Work experience
 ======

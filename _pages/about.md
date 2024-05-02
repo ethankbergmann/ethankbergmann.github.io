@@ -15,4 +15,4 @@ My interests
 ======
 * Health economics: physician and patient behavior, health risks, insurance markets
 * Public economics: social safety net programs, especially SNAP and WIC
-* Behavioral and experimental economics: health-specific risk assessment, information in health takeup
+* Behavioral and experimental economics: health-specific risk assessment, information in health take-up

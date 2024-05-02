@@ -6,5 +6,5 @@ excerpt: 'This paper uses data from a new, nationally representative survey to s
 date: 2023-11-02
 venue: 'Health Affairs Scholar'
 paperurl: 'https://doi.org/10.1093/haschl/qxad057'
-citation: 'Erin T Bronchetti, Ellen B Magenheim, Ethan K Bergmann, Involuntary and patient-initiated delays in medical care during the COVID-19 pandemic, Health Affairs Scholar, Volume 1, Issue 5, November 2023, qxad057, https://doi.org/10.1093/haschl/qxad057'
+citation: 'Erin T Bronchetti, Ellen B Magenheim, Ethan K Bergmann, Involuntary and patient-initiated delays in medical care during the COVID-19 pandemic, Health Affairs Scholar, Volume 1, Issue 5, November 2023, qxad057, '
 ---

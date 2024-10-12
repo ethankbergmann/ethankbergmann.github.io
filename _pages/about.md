@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming PhD Student in Economics and Public Policy at the University of Michigan and a National Science Foundation Graduate Research Fellow.
+I'm a PhD Student in Economics and Public Policy at the University of Michigan and a National Science Foundation Graduate Research Fellow.
 
 I graduated from Swarthmore College in 2022 with a degree in economics and applied mathematics. I am currently a Senior Research Specialist in the Industrial Relations Section at Princeton University.
 

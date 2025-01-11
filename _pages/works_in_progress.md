@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 1. "The Impact of Criminal Records on Mobility," with Amanda Agan, Monica Essig Aberg, Andrew Garin, Dmitiri Koustas, Alex Mas, and Crystal Yang.
-2. "A Model of Optimal Nutrition Assistance."
+2. "OBGYN Labor Supply Responses to Abortion Restrictions."
+3. "A Model of Optimal Nutrition Assistance."
 
 Resting Papers
 =====

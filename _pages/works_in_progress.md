@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Works in Progress"
 permalink: /works_in_progress/
@@ -15,6 +16,7 @@ Works in Progress
 Resting Papers
 ===== 
 1. "Assessing Congressional Districting in Maine and New Hampshire," with Sara Asgari, Quinn Basewitz, Jackson Brogsol, Nathaniel Cox, Diana Davis, Martina Kampel, Becca Keating, Katie Knox, Angus Lam, Jorge Lopez-Nava, Jennifer Paige, Nathan Pitock, Victoria Song, and Dylan Torrance. arXiv Preprint. November 2020. [https://arxiv.org/pdf/2011.06555v1.pdf](https://arxiv.org/pdf/2011.06555v1.pdf)
+
 
 
 

@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "Hi -- Welcome to my Website!"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a PhD Student in Economics and Public Policy at the University of Michigan and a National Science Foundation Graduate Research Fellow.
+I am a PhD student in Economics and Public Policy at the University of Michigan and a National Science Foundation Graduate Research Fellow.
 
-I graduated from Swarthmore College in 2022 with a degree in economics and applied mathematics. I was formerly a Senior Research Specialist in the Industrial Relations Section at Princeton University.
+I graduated from Swarthmore College in 2022 with a degree in economics and applied mathematics. Before Michigan, I was a Senior Research Specialist in the Industrial Relations Section at Princeton University.
 
-My interests
-======
-* Health economics: physician and patient behavior, health risks, insurance markets
-* Public economics: social safety net programs, especially SNAP and WIC
-* Behavioral and experimental economics: health-specific risk assessment, information in health take-up
+## Research Interests
+
+- **Health economics:** physician and patient behavior, health risks, insurance markets
+- **Public economics:** social safety net programs, especially SNAP and WIC
+- **Behavioral and experimental economics:** health-specific risk assessment, information in health take-up

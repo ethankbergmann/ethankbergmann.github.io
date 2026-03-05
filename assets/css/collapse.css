@@ -1,17 +1,121 @@
-.container {
-    width:100%;
-    border:1px solid #d3d3d3;
+/* Abstract dropdown styling */
+.abstract-toggle {
+  display: inline-block;
+  cursor: pointer;
+  color: #494e52;
+  font-size: 0.85em;
+  font-weight: 600;
+  padding: 3px 10px;
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
+  margin-top: 4px;
+  transition: all 0.2s ease;
+  background: #f8f8f8;
+  text-decoration: none;
 }
-.container div {
-    width:100%;
+
+.abstract-toggle:hover {
+  background: #e8e8e8;
+  border-color: #999;
+  color: #333;
 }
-.container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
-    cursor: pointer;
-    font-weight: bold;
+
+.abstract-toggle::before {
+  content: "\25B6";
+  display: inline-block;
+  margin-right: 5px;
+  font-size: 0.7em;
+  transition: transform 0.2s ease;
 }
-.container .content {
-    display: none;
-    padding : 5px;
+
+.abstract-toggle.active::before {
+  transform: rotate(90deg);
+}
+
+.abstract-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease, padding 0.35s ease;
+  padding: 0 12px;
+  margin-top: 0;
+  border-left: 3px solid #00274C;
+  background: #fafafa;
+  font-size: 0.92em;
+  line-height: 1.6;
+  color: #555;
+}
+
+.abstract-content.open {
+  max-height: 800px;
+  padding: 10px 12px;
+  margin-top: 8px;
+}
+
+/* Paper entry styling */
+.paper-entry {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.paper-entry:last-child {
+  border-bottom: none;
+}
+
+.paper-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  color: #333;
+}
+
+.paper-title a {
+  text-decoration: none;
+  color: #00274C;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
+}
+
+.paper-details {
+  margin-top: 3px;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.paper-links {
+  margin-top: 6px;
+}
+
+.paper-links a,
+.paper-links span.abstract-toggle {
+  display: inline-block;
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #494e52;
+  padding: 3px 10px;
+  border: 1px solid #d3d3d3;
+  border-radius: 3px;
+  margin-right: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  background: #f8f8f8;
+}
+
+.paper-links a:hover,
+.paper-links span.abstract-toggle:hover {
+  background: #e8e8e8;
+  border-color: #999;
+  color: #333;
+}
+
+/* Section headers on research page */
+.research-section {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #333;
+  border-bottom: 2px solid #00274C;
+  padding-bottom: 5px;
 }

@@ -13,6 +13,6 @@ I graduated from Swarthmore College in 2022 with a degree in economics and appli
 
 ## Research Interests
 
-- **Health economics:** physician and patient behavior, health risks, insurance markets
-- **Public economics:** social safety net programs, especially SNAP and WIC
-- **Behavioral and experimental economics:** health-specific risk assessment, information in health take-up
+- **Health economics:** physician and patient behavior, health risks
+- **Public economics:** social safety net programs, social welfare aggregation
+- **Labor economics:** physician labor markets, discrimination

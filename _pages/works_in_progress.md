@@ -24,10 +24,7 @@ author_profile: true
 
 <h2 class="research-section">Works in Progress</h2>
 
-<div class="paper-entry">
-  <div class="paper-title">The Impact of Criminal Records on Mobility</div>
-  <div class="paper-details">with Amanda Agan, Monica Essig Aberg, Andrew Garin, Dmitri Koustas, Alex Mas, and Crystal Yang.</div>
-</div>
+Coming soon!
 
 <h2 class="research-section">Resting Papers</h2>
 

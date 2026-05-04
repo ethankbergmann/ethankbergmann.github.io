@@ -12,7 +12,7 @@ author_profile: true
     <a href="http://ssrn.com/abstract=6258355">The Impact of Abortion Bans on the Physician Labor Market: Compositional and Pipeline Effects</a>
   </div>
   <div class="paper-details">February 2026. <em>Under Review.</em></div>
-  <div class="paper-details" style="font-size: 0.85em;"><em>Presented:</em> Princeton Pre-Doctoral Research Conference (2024); University of Michigan Health Economics Student Seminar (2024, 2025); University of Michigan Labor Lunch (2025); University of Michigan Summer Seminar (2025); University of Michigan Public Finance Lunch (2026). <em>Upcoming:</em> BFI Health Economics Initiative, ASHEcon (2026).</div>
+  <div class="paper-details" style="font-size: 0.85em;"><em>Presented:</em> Princeton Pre-Doctoral Research Conference (2024); University of Michigan Health Economics Student Seminar (2024, 2025); University of Michigan Labor Lunch (2025); University of Michigan Summer Seminar (2025); University of Michigan Public Finance Lunch (2026); BFI Health Economics Initiative (2026). <em>Upcoming:</em> ASHEcon (2026).</div>
   <div class="paper-links">
     <a href="http://ssrn.com/abstract=6258355" target="_blank">Paper</a>
     <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span>

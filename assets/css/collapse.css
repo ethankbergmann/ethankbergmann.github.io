@@ -109,6 +109,55 @@
   color: #333;
 }
 
+/* Recent news list */
+.news-list {
+  margin: 10px 0 5px;
+}
+
+.news-item {
+  display: flex;
+  align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex: 0 0 110px;
+  font-weight: 600;
+  color: #00274C;
+  font-size: 0.9em;
+}
+
+.news-text {
+  flex: 1 1 auto;
+  color: #444;
+}
+
+.news-text a {
+  color: #00274C;
+  text-decoration: none;
+}
+
+.news-text a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .news-item {
+    flex-direction: column;
+  }
+  .news-date {
+    flex-basis: auto;
+    margin-bottom: 2px;
+  }
+}
+
 /* Section headers on research page */
 .research-section {
   margin-top: 30px;
